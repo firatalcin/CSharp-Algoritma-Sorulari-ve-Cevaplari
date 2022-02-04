@@ -8,7 +8,7 @@ namespace Dik_Ucgende_Hipotenus
         {
             /*
              Dik Üçgende Hipotenüs Bulan Program
-             Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve 
+             C# ile kullanıcıdan dik kenarlarının uzunluğunu alan ve 
              hipotenüsü hesaplayan programı yazın.
 
              Ödev
