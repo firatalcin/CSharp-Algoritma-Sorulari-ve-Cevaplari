@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d94d53d-22ad-4768-900b-a269a6e83adf": {
+      "ProjectGuid": "0d94d53d-22ad-4768-900b-a269a6e83adf",
+      "DisplayName": "KDV_Tutari_Hesaplama",
+      "ColorIndex": 0
+    },
+    "cdda4f74-4dae-4cbd-9993-ab3b4b0c0441": {
+      "ProjectGuid": "cdda4f74-4dae-4cbd-9993-ab3b4b0c0441",
+      "DisplayName": "Not_Ortalamasi_Hesaplama",
+      "ColorIndex": 1
+    },
+    "919530d2-39db-4dad-86e8-4e57893d6e48": {
+      "ProjectGuid": "919530d2-39db-4dad-86e8-4e57893d6e48",
+      "DisplayName": "Dik_Ucgende_Hipotenus",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

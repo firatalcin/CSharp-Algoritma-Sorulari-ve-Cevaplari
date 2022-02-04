@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\bin\Debug\net5.0\KDV_Tutari_Hesaplama.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\bin\Debug\net5.0\KDV_Tutari_Hesaplama.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\bin\Debug\net5.0\KDV_Tutari_Hesaplama.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\bin\Debug\net5.0\KDV_Tutari_Hesaplama.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\bin\Debug\net5.0\KDV_Tutari_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\bin\Debug\net5.0\ref\KDV_Tutari_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\bin\Debug\net5.0\KDV_Tutari_Hesaplama.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\KDV_Tutari_Hesaplama.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\KDV_Tutari_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\KDV_Tutari_Hesaplama.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\KDV_Tutari_Hesaplama.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\KDV_Tutari_Hesaplama.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\KDV_Tutari_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\ref\KDV_Tutari_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\KDV_Tutari_Hesaplama.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\KDV_Tutari_Hesaplama\obj\Debug\net5.0\KDV_Tutari_Hesaplama.genruntimeconfig.cache
