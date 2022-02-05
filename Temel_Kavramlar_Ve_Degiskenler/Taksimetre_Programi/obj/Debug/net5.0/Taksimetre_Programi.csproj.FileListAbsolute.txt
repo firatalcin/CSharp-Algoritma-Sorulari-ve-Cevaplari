@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\bin\Debug\net5.0\Taksimetre_Programi.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\bin\Debug\net5.0\Taksimetre_Programi.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\bin\Debug\net5.0\Taksimetre_Programi.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\bin\Debug\net5.0\Taksimetre_Programi.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\bin\Debug\net5.0\Taksimetre_Programi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\bin\Debug\net5.0\ref\Taksimetre_Programi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\bin\Debug\net5.0\Taksimetre_Programi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\Taksimetre_Programi.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\Taksimetre_Programi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\Taksimetre_Programi.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\Taksimetre_Programi.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\Taksimetre_Programi.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\Taksimetre_Programi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\ref\Taksimetre_Programi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\Taksimetre_Programi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Taksimetre_Programi\obj\Debug\net5.0\Taksimetre_Programi.genruntimeconfig.cache
