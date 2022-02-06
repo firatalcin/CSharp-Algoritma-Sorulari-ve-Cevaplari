@@ -1,0 +1,14 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\bin\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\bin\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\bin\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\bin\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\bin\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\bin\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\obj\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\obj\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\obj\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\obj\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\obj\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\obj\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\obj\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Daire_Alan_Ve_Cevre\obj\Debug\netcoreapp3.1\Daire_Alan_Ve_Cevre.genruntimeconfig.cache
