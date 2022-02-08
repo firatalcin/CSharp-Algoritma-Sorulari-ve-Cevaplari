@@ -1,0 +1,14 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\bin\Debug\netcoreapp3.1\Vucut_Kitle_Index.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\bin\Debug\netcoreapp3.1\Vucut_Kitle_Index.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\bin\Debug\netcoreapp3.1\Vucut_Kitle_Index.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\bin\Debug\netcoreapp3.1\Vucut_Kitle_Index.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\bin\Debug\netcoreapp3.1\Vucut_Kitle_Index.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\bin\Debug\netcoreapp3.1\Vucut_Kitle_Index.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\obj\Debug\netcoreapp3.1\Vucut_Kitle_Index.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\obj\Debug\netcoreapp3.1\Vucut_Kitle_Index.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\obj\Debug\netcoreapp3.1\Vucut_Kitle_Index.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\obj\Debug\netcoreapp3.1\Vucut_Kitle_Index.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\obj\Debug\netcoreapp3.1\Vucut_Kitle_Index.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\obj\Debug\netcoreapp3.1\Vucut_Kitle_Index.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\obj\Debug\netcoreapp3.1\Vucut_Kitle_Index.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Vucut_Kitle_Index\obj\Debug\netcoreapp3.1\Vucut_Kitle_Index.genruntimeconfig.cache
