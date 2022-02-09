@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Manav_Sepet_Fiyat/1.0.0": {
+        "runtime": {
+          "Manav_Sepet_Fiyat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manav_Sepet_Fiyat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

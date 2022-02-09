@@ -1,0 +1,13 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\bin\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\bin\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\bin\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\bin\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\bin\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\bin\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\obj\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\obj\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\obj\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\obj\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\obj\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\obj\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Temel_Kavramlar_Ve_Degiskenler\Manav_Sepet_Fiyat\obj\Debug\netcoreapp3.1\Manav_Sepet_Fiyat.genruntimeconfig.cache
