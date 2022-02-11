@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\Taksimetre_Programi.csproj": {}
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\Taksimetre_Programi.csproj": {}
   },
   "projects": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\Taksimetre_Programi.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\Taksimetre_Programi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\Taksimetre_Programi.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\Taksimetre_Programi.csproj",
         "projectName": "Taksimetre_Programi",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\Taksimetre_Programi.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\Taksimetre_Programi.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\Taksimetre_Programi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",

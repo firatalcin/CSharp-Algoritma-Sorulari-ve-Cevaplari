@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\Dik_Ucgende_Hipotenus\\Dik_Ucgende_Hipotenus.csproj",
+      "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\Dik_Ucgende_Hipotenus\\Dik_Ucgende_Hipotenus.csproj",
       "projectName": "Dik_Ucgende_Hipotenus",
-      "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\Dik_Ucgende_Hipotenus\\Dik_Ucgende_Hipotenus.csproj",
+      "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\Dik_Ucgende_Hipotenus\\Dik_Ucgende_Hipotenus.csproj",
       "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-      "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\Dik_Ucgende_Hipotenus\\obj\\",
+      "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\Dik_Ucgende_Hipotenus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",

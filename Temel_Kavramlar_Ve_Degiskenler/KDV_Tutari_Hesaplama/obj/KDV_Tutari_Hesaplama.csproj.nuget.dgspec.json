@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\KDV_Tutari_Hesaplama.csproj": {}
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\KDV_Tutari_Hesaplama.csproj": {}
   },
   "projects": {
-    "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\KDV_Tutari_Hesaplama.csproj": {
+    "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\KDV_Tutari_Hesaplama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\KDV_Tutari_Hesaplama.csproj",
+        "projectUniqueName": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\KDV_Tutari_Hesaplama.csproj",
         "projectName": "KDV_Tutari_Hesaplama",
-        "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\KDV_Tutari_Hesaplama.csproj",
+        "projectPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\KDV_Tutari_Hesaplama.csproj",
         "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-        "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\obj\\",
+        "outputPath": "C:\\Users\\firatalcin\\Documents\\GitHub\\CSharp-Algoritma-Sorulari-ve-Cevaplari\\Temel_Kavramlar_Ve_Degiskenler\\KDV_Tutari_Hesaplama\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\firatalcin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daire_Alan_Ve_Cevre", "Dair
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vucut_Kitle_Index", "Vucut_Kitle_Index\Vucut_Kitle_Index.csproj", "{5FF1B895-F996-4A27-B9E5-7560444C899D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manav_Sepet_Fiyat", "Manav_Sepet_Fiyat\Manav_Sepet_Fiyat.csproj", "{AB44F3DA-706C-4595-8D8A-237A4BDDEE02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manav_Sepet_Fiyat", "Manav_Sepet_Fiyat\Manav_Sepet_Fiyat.csproj", "{AB44F3DA-706C-4595-8D8A-237A4BDDEE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kullanici_Girisi", "Kullanici_Girisi\Kullanici_Girisi.csproj", "{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{AB44F3DA-706C-4595-8D8A-237A4BDDEE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB44F3DA-706C-4595-8D8A-237A4BDDEE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB44F3DA-706C-4595-8D8A-237A4BDDEE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

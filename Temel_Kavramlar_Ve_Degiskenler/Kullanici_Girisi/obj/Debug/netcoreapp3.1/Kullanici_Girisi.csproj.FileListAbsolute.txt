@@ -1,0 +1,13 @@
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\bin\Debug\netcoreapp3.1\Kullanici_Girisi.exe
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\bin\Debug\netcoreapp3.1\Kullanici_Girisi.deps.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\bin\Debug\netcoreapp3.1\Kullanici_Girisi.runtimeconfig.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\bin\Debug\netcoreapp3.1\Kullanici_Girisi.runtimeconfig.dev.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\bin\Debug\netcoreapp3.1\Kullanici_Girisi.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\bin\Debug\netcoreapp3.1\Kullanici_Girisi.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\obj\Debug\netcoreapp3.1\Kullanici_Girisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\obj\Debug\netcoreapp3.1\Kullanici_Girisi.AssemblyInfoInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\obj\Debug\netcoreapp3.1\Kullanici_Girisi.AssemblyInfo.cs
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\obj\Debug\netcoreapp3.1\Kullanici_Girisi.csproj.CoreCompileInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\obj\Debug\netcoreapp3.1\Kullanici_Girisi.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\obj\Debug\netcoreapp3.1\Kullanici_Girisi.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Kullanici_Girisi\obj\Debug\netcoreapp3.1\Kullanici_Girisi.genruntimeconfig.cache
