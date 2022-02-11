@@ -15,7 +15,27 @@
       "ProjectGuid": "919530d2-39db-4dad-86e8-4e57893d6e48",
       "DisplayName": "Dik_Ucgende_Hipotenus",
       "ColorIndex": 2
+    },
+    "d675a9c7-024b-44ad-9bdd-74f37fa77a17": {
+      "ProjectGuid": "d675a9c7-024b-44ad-9bdd-74f37fa77a17",
+      "DisplayName": "Taksimetre_Programi",
+      "ColorIndex": 3
+    },
+    "beec8d14-43ab-4500-81d7-2793125a4c5d": {
+      "ProjectGuid": "beec8d14-43ab-4500-81d7-2793125a4c5d",
+      "DisplayName": "Daire_Alan_Ve_Cevre",
+      "ColorIndex": 4
+    },
+    "5ff1b895-f996-4a27-b9e5-7560444c899d": {
+      "ProjectGuid": "5ff1b895-f996-4a27-b9e5-7560444c899d",
+      "DisplayName": "Vucut_Kitle_Index",
+      "ColorIndex": 5
+    },
+    "ab44f3da-706c-4595-8d8a-237a4bddee02": {
+      "ProjectGuid": "ab44f3da-706c-4595-8d8a-237a4bddee02",
+      "DisplayName": "Manav_Sepet_Fiyat",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 7
 }

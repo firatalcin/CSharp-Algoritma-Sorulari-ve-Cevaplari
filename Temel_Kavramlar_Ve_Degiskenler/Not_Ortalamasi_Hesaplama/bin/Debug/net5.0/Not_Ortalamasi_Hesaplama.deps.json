@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Not_Ortalamasi_Hesaplama/1.0.0": {
+        "runtime": {
+          "Not_Ortalamasi_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Not_Ortalamasi_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

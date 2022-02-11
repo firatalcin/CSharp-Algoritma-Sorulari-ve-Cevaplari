@@ -1,0 +1,16 @@
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\bin\Debug\net5.0\Not_Ortalamasi_Hesaplama.exe
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\bin\Debug\net5.0\Not_Ortalamasi_Hesaplama.deps.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\bin\Debug\net5.0\Not_Ortalamasi_Hesaplama.runtimeconfig.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\bin\Debug\net5.0\Not_Ortalamasi_Hesaplama.runtimeconfig.dev.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\bin\Debug\net5.0\Not_Ortalamasi_Hesaplama.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\bin\Debug\net5.0\ref\Not_Ortalamasi_Hesaplama.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\bin\Debug\net5.0\Not_Ortalamasi_Hesaplama.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\Not_Ortalamasi_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\Not_Ortalamasi_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\Not_Ortalamasi_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\Not_Ortalamasi_Hesaplama.AssemblyInfo.cs
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\Not_Ortalamasi_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\Not_Ortalamasi_Hesaplama.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\ref\Not_Ortalamasi_Hesaplama.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\Not_Ortalamasi_Hesaplama.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Not_Ortalamasi_Hesaplama\obj\Debug\net5.0\Not_Ortalamasi_Hesaplama.genruntimeconfig.cache

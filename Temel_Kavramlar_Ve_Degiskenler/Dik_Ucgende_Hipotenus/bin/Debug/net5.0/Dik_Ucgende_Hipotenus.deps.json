@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dik_Ucgende_Hipotenus/1.0.0": {
+        "runtime": {
+          "Dik_Ucgende_Hipotenus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dik_Ucgende_Hipotenus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

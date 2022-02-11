@@ -1,0 +1,16 @@
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\bin\Debug\net5.0\Dik_Ucgende_Hipotenus.exe
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\bin\Debug\net5.0\Dik_Ucgende_Hipotenus.deps.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\bin\Debug\net5.0\Dik_Ucgende_Hipotenus.runtimeconfig.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\bin\Debug\net5.0\Dik_Ucgende_Hipotenus.runtimeconfig.dev.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\bin\Debug\net5.0\Dik_Ucgende_Hipotenus.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\bin\Debug\net5.0\ref\Dik_Ucgende_Hipotenus.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\bin\Debug\net5.0\Dik_Ucgende_Hipotenus.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\Dik_Ucgende_Hipotenus.csproj.AssemblyReference.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\Dik_Ucgende_Hipotenus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\Dik_Ucgende_Hipotenus.AssemblyInfoInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\Dik_Ucgende_Hipotenus.AssemblyInfo.cs
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\Dik_Ucgende_Hipotenus.csproj.CoreCompileInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\Dik_Ucgende_Hipotenus.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\ref\Dik_Ucgende_Hipotenus.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\Dik_Ucgende_Hipotenus.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Dik_Ucgende_Hipotenus\obj\Debug\net5.0\Dik_Ucgende_Hipotenus.genruntimeconfig.cache
