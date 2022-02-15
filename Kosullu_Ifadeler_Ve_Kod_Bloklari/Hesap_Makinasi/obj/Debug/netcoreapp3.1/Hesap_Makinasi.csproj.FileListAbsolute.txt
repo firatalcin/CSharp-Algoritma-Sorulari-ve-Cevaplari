@@ -1,0 +1,14 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\bin\Debug\netcoreapp3.1\Hesap_Makinasi.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\bin\Debug\netcoreapp3.1\Hesap_Makinasi.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\bin\Debug\netcoreapp3.1\Hesap_Makinasi.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\bin\Debug\netcoreapp3.1\Hesap_Makinasi.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\bin\Debug\netcoreapp3.1\Hesap_Makinasi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\bin\Debug\netcoreapp3.1\Hesap_Makinasi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\obj\Debug\netcoreapp3.1\Hesap_Makinasi.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\obj\Debug\netcoreapp3.1\Hesap_Makinasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\obj\Debug\netcoreapp3.1\Hesap_Makinasi.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\obj\Debug\netcoreapp3.1\Hesap_Makinasi.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\obj\Debug\netcoreapp3.1\Hesap_Makinasi.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\obj\Debug\netcoreapp3.1\Hesap_Makinasi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\obj\Debug\netcoreapp3.1\Hesap_Makinasi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Hesap_Makinasi\obj\Debug\netcoreapp3.1\Hesap_Makinasi.genruntimeconfig.cache

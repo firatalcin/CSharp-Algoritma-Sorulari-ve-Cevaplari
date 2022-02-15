@@ -35,7 +35,12 @@
       "ProjectGuid": "ab44f3da-706c-4595-8d8a-237a4bddee02",
       "DisplayName": "Manav_Sepet_Fiyat",
       "ColorIndex": 6
+    },
+    "e2a411fc-0a0d-4b3e-bd58-bee738f4fed4": {
+      "ProjectGuid": "e2a411fc-0a0d-4b3e-bd58-bee738f4fed4",
+      "DisplayName": "Kullanici_Girisi",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
