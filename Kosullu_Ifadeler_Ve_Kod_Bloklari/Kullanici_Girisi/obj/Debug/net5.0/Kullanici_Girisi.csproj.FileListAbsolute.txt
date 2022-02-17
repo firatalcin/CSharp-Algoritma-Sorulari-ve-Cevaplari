@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\bin\Debug\net5.0\Kullanici_Girisi.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\bin\Debug\net5.0\Kullanici_Girisi.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\bin\Debug\net5.0\Kullanici_Girisi.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\bin\Debug\net5.0\Kullanici_Girisi.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\bin\Debug\net5.0\Kullanici_Girisi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\bin\Debug\net5.0\ref\Kullanici_Girisi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\bin\Debug\net5.0\Kullanici_Girisi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\Kullanici_Girisi.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\Kullanici_Girisi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\Kullanici_Girisi.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\Kullanici_Girisi.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\Kullanici_Girisi.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\Kullanici_Girisi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\ref\Kullanici_Girisi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\Kullanici_Girisi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Kosullu_Ifadeler_Ve_Kod_Bloklari\Kullanici_Girisi\obj\Debug\net5.0\Kullanici_Girisi.genruntimeconfig.cache
