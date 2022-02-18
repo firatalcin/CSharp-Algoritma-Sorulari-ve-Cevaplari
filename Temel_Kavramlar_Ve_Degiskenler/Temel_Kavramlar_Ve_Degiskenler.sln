@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vucut_Kitle_Index", "Vucut_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manav_Sepet_Fiyat", "Manav_Sepet_Fiyat\Manav_Sepet_Fiyat.csproj", "{AB44F3DA-706C-4595-8D8A-237A4BDDEE02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kullanici_Girisi", "Kullanici_Girisi\Kullanici_Girisi.csproj", "{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kullanici_Girisi", "Kullanici_Girisi\Kullanici_Girisi.csproj", "{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayi_Tahmin_Oyunu", "Sayi_Tahmin_Oyunu\Sayi_Tahmin_Oyunu.csproj", "{6BE2AAC9-14C6-4FDA-882C-3F6A96101EBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2A411FC-0A0D-4B3E-BD58-BEE738F4FED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE2AAC9-14C6-4FDA-882C-3F6A96101EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE2AAC9-14C6-4FDA-882C-3F6A96101EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE2AAC9-14C6-4FDA-882C-3F6A96101EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE2AAC9-14C6-4FDA-882C-3F6A96101EBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

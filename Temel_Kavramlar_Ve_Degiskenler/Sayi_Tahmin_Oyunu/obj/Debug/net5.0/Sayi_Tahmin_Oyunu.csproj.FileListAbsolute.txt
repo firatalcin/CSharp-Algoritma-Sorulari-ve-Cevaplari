@@ -1,0 +1,16 @@
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\bin\Debug\net5.0\Sayi_Tahmin_Oyunu.exe
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\bin\Debug\net5.0\Sayi_Tahmin_Oyunu.deps.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\bin\Debug\net5.0\Sayi_Tahmin_Oyunu.runtimeconfig.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\bin\Debug\net5.0\Sayi_Tahmin_Oyunu.runtimeconfig.dev.json
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\bin\Debug\net5.0\Sayi_Tahmin_Oyunu.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\bin\Debug\net5.0\ref\Sayi_Tahmin_Oyunu.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\bin\Debug\net5.0\Sayi_Tahmin_Oyunu.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\Sayi_Tahmin_Oyunu.csproj.AssemblyReference.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\Sayi_Tahmin_Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\Sayi_Tahmin_Oyunu.AssemblyInfoInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\Sayi_Tahmin_Oyunu.AssemblyInfo.cs
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\Sayi_Tahmin_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\Sayi_Tahmin_Oyunu.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\ref\Sayi_Tahmin_Oyunu.dll
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\Sayi_Tahmin_Oyunu.pdb
+C:\Users\firatalcin\Documents\GitHub\CSharp-Algoritma-Sorulari-ve-Cevaplari\Temel_Kavramlar_Ve_Degiskenler\Sayi_Tahmin_Oyunu\obj\Debug\net5.0\Sayi_Tahmin_Oyunu.genruntimeconfig.cache

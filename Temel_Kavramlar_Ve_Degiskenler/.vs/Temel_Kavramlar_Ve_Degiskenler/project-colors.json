@@ -40,7 +40,12 @@
       "ProjectGuid": "e2a411fc-0a0d-4b3e-bd58-bee738f4fed4",
       "DisplayName": "Kullanici_Girisi",
       "ColorIndex": 7
+    },
+    "6be2aac9-14c6-4fda-882c-3f6a96101ebb": {
+      "ProjectGuid": "6be2aac9-14c6-4fda-882c-3f6a96101ebb",
+      "DisplayName": "Sayi_Tahmin_Oyunu",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

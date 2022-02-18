@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sayi_Tahmin_Oyunu/1.0.0": {
+        "runtime": {
+          "Sayi_Tahmin_Oyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sayi_Tahmin_Oyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
