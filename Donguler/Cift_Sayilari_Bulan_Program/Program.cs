@@ -20,7 +20,7 @@ namespace Cift_Sayilari_Bulan_Program
 
             for (int i = 1; i < sayi; i++)
             {
-                if(i % 2 == 0)
+                if (i % 2 == 0)
                 {
                     Console.WriteLine(i);
                 }
@@ -29,14 +29,18 @@ namespace Cift_Sayilari_Bulan_Program
 
             Console.WriteLine("************************************************************************");
 
+            int ort = 0, toplam = 0, sayac = 0;
 
             for (int i = 0; i < sayi; i++)
             {
-                if(i % 3 == 0 && i % 4 == 0)
+                if (i % 3 == 0 && i % 4 == 0)
                 {
-                    Console.WriteLine(i);
+                    toplam += i;
+                    sayac++;
                 }
             }
+            ort = toplam / sayac;
+            Console.WriteLine(ort);
 
         }
     }
