@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\bin\Debug\net5.0\Cift_Sayilari_Bulan_Program.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\bin\Debug\net5.0\Cift_Sayilari_Bulan_Program.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\bin\Debug\net5.0\Cift_Sayilari_Bulan_Program.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\bin\Debug\net5.0\Cift_Sayilari_Bulan_Program.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\bin\Debug\net5.0\Cift_Sayilari_Bulan_Program.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\bin\Debug\net5.0\ref\Cift_Sayilari_Bulan_Program.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\bin\Debug\net5.0\Cift_Sayilari_Bulan_Program.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\Cift_Sayilari_Bulan_Program.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\Cift_Sayilari_Bulan_Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\Cift_Sayilari_Bulan_Program.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\Cift_Sayilari_Bulan_Program.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\Cift_Sayilari_Bulan_Program.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\Cift_Sayilari_Bulan_Program.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\ref\Cift_Sayilari_Bulan_Program.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\Cift_Sayilari_Bulan_Program.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Cift_Sayilari_Bulan_Program\obj\Debug\net5.0\Cift_Sayilari_Bulan_Program.genruntimeconfig.cache

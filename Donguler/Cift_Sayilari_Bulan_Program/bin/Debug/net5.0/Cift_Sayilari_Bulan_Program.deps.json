@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cift_Sayilari_Bulan_Program/1.0.0": {
+        "runtime": {
+          "Cift_Sayilari_Bulan_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cift_Sayilari_Bulan_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
