@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\bin\Debug\net5.0\Tek_Sayilarin_Toplami.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\bin\Debug\net5.0\Tek_Sayilarin_Toplami.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\bin\Debug\net5.0\Tek_Sayilarin_Toplami.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\bin\Debug\net5.0\Tek_Sayilarin_Toplami.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\bin\Debug\net5.0\Tek_Sayilarin_Toplami.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\bin\Debug\net5.0\ref\Tek_Sayilarin_Toplami.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\bin\Debug\net5.0\Tek_Sayilarin_Toplami.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\Tek_Sayilarin_Toplami.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\Tek_Sayilarin_Toplami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\Tek_Sayilarin_Toplami.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\Tek_Sayilarin_Toplami.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\Tek_Sayilarin_Toplami.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\Tek_Sayilarin_Toplami.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\ref\Tek_Sayilarin_Toplami.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\Tek_Sayilarin_Toplami.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Tek_Sayilarin_Toplami\obj\Debug\net5.0\Tek_Sayilarin_Toplami.genruntimeconfig.cache

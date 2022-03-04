@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f8fc7dba-5486-49d2-9ec5-75de08597364": {
+      "ProjectGuid": "f8fc7dba-5486-49d2-9ec5-75de08597364",
+      "DisplayName": "Cift_Sayilari_Bulan_Program",
+      "ColorIndex": 0
+    },
+    "25513c40-fcad-4d9a-b5c3-e35e261da20e": {
+      "ProjectGuid": "25513c40-fcad-4d9a-b5c3-e35e261da20e",
+      "DisplayName": "Tek_Sayilarin_Toplami",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
