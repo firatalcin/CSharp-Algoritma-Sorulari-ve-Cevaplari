@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\bin\Debug\net5.0\Kombinasyon_Hesabi.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\bin\Debug\net5.0\Kombinasyon_Hesabi.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\bin\Debug\net5.0\Kombinasyon_Hesabi.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\bin\Debug\net5.0\Kombinasyon_Hesabi.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\bin\Debug\net5.0\Kombinasyon_Hesabi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\bin\Debug\net5.0\Kombinasyon_Hesabi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\Kombinasyon_Hesabi.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\Kombinasyon_Hesabi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\Kombinasyon_Hesabi.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\Kombinasyon_Hesabi.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\Kombinasyon_Hesabi.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\Kombinasyon_Hesabi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\refint\Kombinasyon_Hesabi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\Kombinasyon_Hesabi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\Kombinasyon_Hesabi.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Kombinasyon_Hesabi\obj\Debug\net5.0\ref\Kombinasyon_Hesabi.dll
