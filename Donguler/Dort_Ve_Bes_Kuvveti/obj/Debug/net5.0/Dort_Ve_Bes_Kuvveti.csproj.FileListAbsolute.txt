@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\bin\Debug\net5.0\Dort_Ve_Bes_Kuvveti.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\bin\Debug\net5.0\Dort_Ve_Bes_Kuvveti.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\bin\Debug\net5.0\Dort_Ve_Bes_Kuvveti.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\bin\Debug\net5.0\Dort_Ve_Bes_Kuvveti.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\bin\Debug\net5.0\Dort_Ve_Bes_Kuvveti.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\bin\Debug\net5.0\Dort_Ve_Bes_Kuvveti.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\Dort_Ve_Bes_Kuvveti.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\Dort_Ve_Bes_Kuvveti.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\Dort_Ve_Bes_Kuvveti.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\Dort_Ve_Bes_Kuvveti.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\Dort_Ve_Bes_Kuvveti.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\Dort_Ve_Bes_Kuvveti.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\refint\Dort_Ve_Bes_Kuvveti.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\Dort_Ve_Bes_Kuvveti.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\Dort_Ve_Bes_Kuvveti.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Dort_Ve_Bes_Kuvveti\obj\Debug\net5.0\ref\Dort_Ve_Bes_Kuvveti.dll
