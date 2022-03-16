@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\bin\Debug\net5.0\Uslu_Sayi_Hesaplama.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\bin\Debug\net5.0\Uslu_Sayi_Hesaplama.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\bin\Debug\net5.0\Uslu_Sayi_Hesaplama.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\bin\Debug\net5.0\Uslu_Sayi_Hesaplama.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\bin\Debug\net5.0\Uslu_Sayi_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\bin\Debug\net5.0\Uslu_Sayi_Hesaplama.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\Uslu_Sayi_Hesaplama.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\Uslu_Sayi_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\Uslu_Sayi_Hesaplama.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\Uslu_Sayi_Hesaplama.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\Uslu_Sayi_Hesaplama.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\Uslu_Sayi_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\refint\Uslu_Sayi_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\Uslu_Sayi_Hesaplama.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\Uslu_Sayi_Hesaplama.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Uslu_Sayi_Hesaplama\obj\Debug\net5.0\ref\Uslu_Sayi_Hesaplama.dll
