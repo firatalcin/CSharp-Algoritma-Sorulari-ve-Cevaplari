@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\bin\Debug\net5.0\Basamak_Toplami_Hesaplama.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\bin\Debug\net5.0\Basamak_Toplami_Hesaplama.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\bin\Debug\net5.0\Basamak_Toplami_Hesaplama.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\bin\Debug\net5.0\Basamak_Toplami_Hesaplama.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\bin\Debug\net5.0\Basamak_Toplami_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\bin\Debug\net5.0\Basamak_Toplami_Hesaplama.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\Basamak_Toplami_Hesaplama.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\Basamak_Toplami_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\Basamak_Toplami_Hesaplama.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\Basamak_Toplami_Hesaplama.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\Basamak_Toplami_Hesaplama.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\Basamak_Toplami_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\refint\Basamak_Toplami_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\Basamak_Toplami_Hesaplama.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\Basamak_Toplami_Hesaplama.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Basamak_Toplami_Hesaplama\obj\Debug\net5.0\ref\Basamak_Toplami_Hesaplama.dll
