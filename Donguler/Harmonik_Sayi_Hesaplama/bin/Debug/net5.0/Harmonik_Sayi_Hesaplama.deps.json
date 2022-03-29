@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Harmonik_Sayi_Hesaplama/1.0.0": {
+        "runtime": {
+          "Harmonik_Sayi_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harmonik_Sayi_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
