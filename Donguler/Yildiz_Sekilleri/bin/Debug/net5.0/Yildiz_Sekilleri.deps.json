@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yildiz_Sekilleri/1.0.0": {
+        "runtime": {
+          "Yildiz_Sekilleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yildiz_Sekilleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

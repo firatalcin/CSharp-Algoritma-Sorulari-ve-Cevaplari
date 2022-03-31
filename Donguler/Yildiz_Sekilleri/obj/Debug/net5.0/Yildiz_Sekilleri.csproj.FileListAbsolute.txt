@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\bin\Debug\net5.0\Yildiz_Sekilleri.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\bin\Debug\net5.0\Yildiz_Sekilleri.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\bin\Debug\net5.0\Yildiz_Sekilleri.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\bin\Debug\net5.0\Yildiz_Sekilleri.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\bin\Debug\net5.0\Yildiz_Sekilleri.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\bin\Debug\net5.0\Yildiz_Sekilleri.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\Yildiz_Sekilleri.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\Yildiz_Sekilleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\Yildiz_Sekilleri.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\Yildiz_Sekilleri.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\Yildiz_Sekilleri.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\Yildiz_Sekilleri.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\refint\Yildiz_Sekilleri.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\Yildiz_Sekilleri.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\Yildiz_Sekilleri.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Yildiz_Sekilleri\obj\Debug\net5.0\ref\Yildiz_Sekilleri.dll
