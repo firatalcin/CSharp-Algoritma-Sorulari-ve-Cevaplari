@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\bin\Debug\net5.0\Atm_Projesi.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\bin\Debug\net5.0\Atm_Projesi.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\bin\Debug\net5.0\Atm_Projesi.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\bin\Debug\net5.0\Atm_Projesi.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\bin\Debug\net5.0\Atm_Projesi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\bin\Debug\net5.0\Atm_Projesi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\Atm_Projesi.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\Atm_Projesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\Atm_Projesi.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\Atm_Projesi.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\Atm_Projesi.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\Atm_Projesi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\refint\Atm_Projesi.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\Atm_Projesi.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\Atm_Projesi.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Atm_Projesi\obj\Debug\net5.0\ref\Atm_Projesi.dll
