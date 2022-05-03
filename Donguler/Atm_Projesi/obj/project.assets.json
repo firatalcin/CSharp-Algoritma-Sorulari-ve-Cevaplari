@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Donguler\\Atm_Projesi\\Atm_Projesi.csproj",
+      "projectUniqueName": "d:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Donguler\\Atm_Projesi\\Atm_Projesi.csproj",
       "projectName": "Atm_Projesi",
-      "projectPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Donguler\\Atm_Projesi\\Atm_Projesi.csproj",
+      "projectPath": "d:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Donguler\\Atm_Projesi\\Atm_Projesi.csproj",
       "packagesPath": "C:\\Users\\firatalcin\\.nuget\\packages\\",
-      "outputPath": "D:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Donguler\\Atm_Projesi\\obj\\",
+      "outputPath": "d:\\Kurslar\\ASP.NET_MVC_CORE\\CSharp-Algoritma-Soruları\\Donguler\\Atm_Projesi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

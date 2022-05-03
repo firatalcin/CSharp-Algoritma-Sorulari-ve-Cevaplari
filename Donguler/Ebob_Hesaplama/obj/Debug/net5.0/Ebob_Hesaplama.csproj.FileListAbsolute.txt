@@ -1,0 +1,16 @@
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\bin\Debug\net5.0\Ebob_Hesaplama.exe
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\bin\Debug\net5.0\Ebob_Hesaplama.deps.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\bin\Debug\net5.0\Ebob_Hesaplama.runtimeconfig.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\bin\Debug\net5.0\Ebob_Hesaplama.runtimeconfig.dev.json
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\bin\Debug\net5.0\Ebob_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\bin\Debug\net5.0\Ebob_Hesaplama.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\Ebob_Hesaplama.csproj.AssemblyReference.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\Ebob_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\Ebob_Hesaplama.AssemblyInfoInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\Ebob_Hesaplama.AssemblyInfo.cs
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\Ebob_Hesaplama.csproj.CoreCompileInputs.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\Ebob_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\refint\Ebob_Hesaplama.dll
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\Ebob_Hesaplama.pdb
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\Ebob_Hesaplama.genruntimeconfig.cache
+D:\Kurslar\ASP.NET_MVC_CORE\CSharp-Algoritma-Soruları\Donguler\Ebob_Hesaplama\obj\Debug\net5.0\ref\Ebob_Hesaplama.dll
