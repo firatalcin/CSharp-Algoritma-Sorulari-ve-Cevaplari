@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ekok_Hesaplama/1.0.0": {
+        "runtime": {
+          "Ekok_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ekok_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
